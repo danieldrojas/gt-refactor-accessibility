@@ -1,5 +1,6 @@
-# Horiseon-Marketing Web App
-![badmath](https://img.shields.io/badge/HTML-Accessibility-red)
+# Horiseon-Online Marketing Web App
+
+![Accessibility](https://img.shields.io/badge/HTML-Accessibility-red)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
 ## Table of Contents 
@@ -10,16 +11,16 @@
 * [MIT License](#MIT-License)
 * [Contributing](#Contributing)
 
-
 ## Installation
 
 Clone repository on local machine and run HTML file in browser.
 
 ## Usage 
 The present HTML file was refactor to implement   best practice of accessibility.
-![Web App Upper ](./Background.png)
-![Web App Middle](./Optimization-Management.png)
-![Web App Lower ](./Media-Marketing.png)
+
+![Web App Upper ](./images/Background.png)
+![Web App Middle](./images/Optimization-Management.png)
+![Web App Lower ](./images/Media-Marketing.png)
 
 ## Credits
 
