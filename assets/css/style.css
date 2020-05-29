@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-main {
+body {
     background-color: #d9dcd6;
 }
 
@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header #links {
+header .links {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header #links {
     font-size: 20px;
 }
 
-header #links ul {
+header .links ul {
     list-style-type: none;
 }
 
-header #links ul li {
+header .links ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Contains background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -193,8 +194,10 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+
 }
 
 footer h2 {
     font-size: 20px;
+
 }
